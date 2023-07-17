@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1105299265716236389/1130398651471122503/IMG_3126.jpg)](https://haanif.vercel.app)
+[![MasterHead](https://cdn.discordapp.com/attachments/1105299265716236389/1130401424266760293/230612-dilgudil__-1668247724020609026-1.gif)](https://haanif.vercel.app)
 <h1 align="center">Hi 👋, I'm Hanif</h1>
 <h3 align="center">Saya seorang pelajar di semarang</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
