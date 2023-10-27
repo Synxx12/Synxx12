@@ -24,5 +24,6 @@ Mending Turu😴😴
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Spotify
-[![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31k3gz2hurvhrl2ya2uatoktxafe&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31k3gz2hurvhrl2ya2uatoktxafe&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)
+
 
