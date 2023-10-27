@@ -22,3 +22,7 @@ Mending Turu😴😴
 [![](https://visitcount.itsvg.in/api?id=Synxx12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Spotify
+[![Alt Text](https://spotify-github-profile.vercel.app/api/view.svg?uid=31k3gz2hurvhrl2ya2uatoktxafe&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
+
