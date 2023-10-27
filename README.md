@@ -24,6 +24,6 @@ Mending Turu😴😴
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Spotify
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k3gz2hurvhrl2ya2uatoktxafe&count=1)
 
 
