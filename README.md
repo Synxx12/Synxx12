@@ -28,4 +28,4 @@ Mending Turu😴😴
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k3gz2hurvhrl2ya2uatoktxafe&count=1)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Synxx12&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Synxx12&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
