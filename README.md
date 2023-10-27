@@ -22,7 +22,7 @@ Mending Turu😴😴
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Spotify 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)]([https://github.com/kittinan/spotify-github-profile](https://open.spotify.com/user/31k3gz2hurvhrl2ya2uatoktxafe?si=76156735e6eb41c8))
 ### Spotify recently
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k3gz2hurvhrl2ya2uatoktxafe&count=1)
 
