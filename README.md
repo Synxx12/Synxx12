@@ -23,7 +23,7 @@ Mending Turu😴😴
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Spotify
+## Spotify recently
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k3gz2hurvhrl2ya2uatoktxafe&count=1)
 
 
