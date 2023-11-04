@@ -23,7 +23,7 @@ Mending Turu😴😴
 ---
 
 ### Discord
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=712745906876842025)](https://twitter.com/hanifhan1f)
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=<712745906876842025>)](https://twitter.com/hanifhan1f)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
