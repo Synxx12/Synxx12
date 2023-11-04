@@ -23,11 +23,7 @@ Mending Turu😴😴
 ---
 
 ### Discord
-<p align="center">
-    <a href="https://discord.com/users/737903565313409095">
-        <img src="https://lanyard-profile-readme.vercel.app/api/712745906876842025" align="center">
-    </a>
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025)](https://discord.com/users/712745906876842025)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
