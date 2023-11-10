@@ -34,3 +34,7 @@ Mending Turu😴😴
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Synxx12&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+
+---
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9057fd40-6505-4bad-893f-300f670688ef/deploy-status)](https://app.netlify.com/sites/next-showroom/deploys)
