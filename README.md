@@ -28,6 +28,6 @@ Mending Turu😴😴
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Spotify 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3gz2hurvhrl2ya2uatoktxafe&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
 ---
 [![](https://visitcount.itsvg.in/api?id=Synxx12&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
