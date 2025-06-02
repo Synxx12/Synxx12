@@ -88,12 +88,8 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/712745906876842025)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Synxx12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
 ### 🎮 Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20debugging%20something...)](https://discord.com/users/712745906876842025)
-
 </div>
 
 ## 🎯 2024 Goals
