@@ -96,15 +96,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 
 </div>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My First Full-Stack App](https://your-blog.com/post1)
-- [JavaScript Tips That Changed My Coding Life](https://your-blog.com/post2)
-- [The Art of Clean Code: Lessons Learned](https://your-blog.com/post3)
-- [My Journey from Beginner to Full-Stack Developer](https://your-blog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🎯 2024 Goals
 
 - 🚀 Contribute to more open source projects
