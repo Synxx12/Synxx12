@@ -83,15 +83,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 [![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20debugging%20something...)](https://discord.com/users/712745906876842025)
 </div>
 
-## 🎯 2024 Goals
-
-- 🚀 Contribute to more open source projects
-- 📚 Master advanced React patterns and Next.js
-- ☁️ Learn cloud architecture (AWS/GCP)
-- 🤝 Mentor junior developers
-- 📝 Write more technical blog posts
-- 🏆 Achieve 1000+ GitHub followers
-
 ## 💡 Random Dev Quote
 
 <div align="center">
