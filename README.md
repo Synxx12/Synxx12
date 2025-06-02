@@ -70,15 +70,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"/>
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Synxx12&repo=your-awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Synxx12/your-awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Synxx12&repo=another-cool-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Synxx12/another-cool-project)
-
-</div>
-
 ## 🎵 Currently Vibing To
 
 <div align="center">
@@ -105,25 +96,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 [![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20debugging%20something...)](https://discord.com/users/712745906876842025)
 
 </div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How I Built My First Full-Stack App](https://your-blog.com/post1)
-- [JavaScript Tips That Changed My Coding Life](https://your-blog.com/post2)
-- [The Art of Clean Code: Lessons Learned](https://your-blog.com/post3)
-- [My Journey from Beginner to Full-Stack Developer](https://your-blog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 2024 Goals
-
-- 🚀 Contribute to more open source projects
-- 📚 Master advanced React patterns and Next.js
-- ☁️ Learn cloud architecture (AWS/GCP)
-- 🤝 Mentor junior developers
-- 📝 Write more technical blog posts
-- 🏆 Achieve 1000+ GitHub followers
 
 ## 💡 Random Dev Quote
 
