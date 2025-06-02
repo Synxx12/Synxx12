@@ -67,10 +67,25 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"/>
 </div>
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Synxx12&repo=your-awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Synxx12/your-awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Synxx12&repo=another-cool-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Synxx12/another-cool-project)
+
+</div>
+
 ## 🎵 Currently Vibing To
 
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=false" alt="Spotify Now Playing"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ## 💬 Let's Connect
@@ -79,9 +94,31 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/712745906876842025)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Synxx12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
 ### 🎮 Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20debugging%20something...)](https://discord.com/users/712745906876842025)
+
 </div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built My First Full-Stack App](https://your-blog.com/post1)
+- [JavaScript Tips That Changed My Coding Life](https://your-blog.com/post2)
+- [The Art of Clean Code: Lessons Learned](https://your-blog.com/post3)
+- [My Journey from Beginner to Full-Stack Developer](https://your-blog.com/post4)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 2024 Goals
+
+- 🚀 Contribute to more open source projects
+- 📚 Master advanced React patterns and Next.js
+- ☁️ Learn cloud architecture (AWS/GCP)
+- 🤝 Mentor junior developers
+- 📝 Write more technical blog posts
+- 🏆 Achieve 1000+ GitHub followers
 
 ## 💡 Random Dev Quote
 
@@ -90,6 +127,10 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 </div>
 
 ## 📊 Weekly Development Breakdown
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Synxx12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&layout=compact" alt="WakaTime Stats"/>
+</div>
 
 <!--START_SECTION:waka-->
 ```text
