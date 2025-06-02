@@ -9,7 +9,7 @@ Mending Turu 😴😴
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Synxx12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Synxx12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Hanif's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hanif's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
