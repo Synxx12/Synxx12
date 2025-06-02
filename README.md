@@ -1,29 +1,72 @@
-# Hanif
+# Hi there, I'm Hanif! 👋
 
-**Full Stack Developer** • **Code Enthusiast**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+> **"Mending Turu"** 😴 - Because sometimes the best debugging happens in dreams!
+
+I'm a passionate developer who loves crafting digital experiences and exploring new technologies. When I'm not coding, you'll probably find me catching up on sleep or diving into the latest tech trends.
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Synxx12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synxx12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synxx12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"/>
+</div>
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=false" alt="Spotify Now Playing"/>
+</div>
+
+## 💬 Let's Connect
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/712745906876842025)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Synxx12)
+
+### Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20debugging%20something...)](https://discord.com/users/712745906876842025)
+
+</div>
 
 ---
 
-## Stack
-
-**Frontend** → React, TypeScript, JavaScript  
-**Backend** → Python, MongoDB  
-**Deploy** → Vercel
-
----
-
-## Stats
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Synxx12&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=79c0ff&text_color=c9d1d9&count_private=true"/>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synxx12&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>
-
-<img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=Synxx12&theme=dark&hide_border=true&background=0d1117&stroke=79c0ff&ring=79c0ff&fire=ff6b6b&currStreakLabel=c9d1d9"/>
-
----
-
-## Connect
-
-[**Discord**](https://discord.com/users/712745906876842025) • [**Spotify**](https://spotify-github-profile.kittinanx.com/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe)
-
-<img src="https://komarev.com/ghpvc/?username=Synxx12&style=flat&color=79c0ff&label=views"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Synxx12&style=for-the-badge&color=58a6ff&label=Profile+Views"/>
+  
+  <br><br>
+  
+  **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** ✨
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
