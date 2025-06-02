@@ -67,15 +67,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"/>
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Synxx12&repo=your-awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Synxx12/your-awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Synxx12&repo=another-cool-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Synxx12/another-cool-project)
-
-</div>
-
 ## 🎵 Currently Vibing To
 
 <div align="center">
