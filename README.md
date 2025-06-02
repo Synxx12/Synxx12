@@ -76,12 +76,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ## 💬 Let's Connect
 
 <div align="center">
@@ -102,14 +96,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Random Dev Quote"/>
 </div>
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Synxx12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&layout=compact" alt="WakaTime Stats"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Synxx12&style=for-the-badge&color=58a6ff&label=Profile+Views"/>
