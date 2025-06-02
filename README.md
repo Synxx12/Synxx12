@@ -25,6 +25,7 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 <div align="center">
 
 ### 🚀 Languages & Frameworks
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,12 +34,14 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Database & Cloud
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛠️ Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -67,6 +70,20 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"/>
 </div>
 
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   12 hrs 15 mins  ████████████░░░░░░░░░░░░░   48.2%
+TypeScript   8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   33.5%
+React        3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.8%
+CSS          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    3.0%
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░    0.5%
+```
+
+<!--END_SECTION:waka-->
+
 ## 🎵 Currently Vibing To
 
 <div align="center">
@@ -79,8 +96,11 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/712745906876842025)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Synxx12)
+
 ### 🎮 Discord Status
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20debugging%20something...)](https://discord.com/users/712745906876842025)
+
 </div>
 
 ## 💡 Random Dev Quote
@@ -88,18 +108,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Random Dev Quote"/>
 </div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 15 mins  ████████████░░░░░░░░░░░░░   48.2%
-TypeScript   8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   33.5%
-React        3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.8%
-CSS          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    3.0%
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░    0.5%
-```
-<!--END_SECTION:waka-->
 
 ---
 
