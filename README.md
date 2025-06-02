@@ -82,12 +82,6 @@ I'm a passionate developer who loves crafting digital experiences and exploring 
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synxx12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ## 💬 Let's Connect
 
 <div align="center">
