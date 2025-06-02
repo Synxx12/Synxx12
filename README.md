@@ -10,7 +10,7 @@
 
 I'm a passionate developer who loves crafting digital experiences and exploring new technologies. When I'm not coding, you'll probably find me catching up on sleep or diving into the latest tech trends.
 
-<div align="center">⚡ ARSENAL OF DESTRUCTION ⚡</div>
+🛠️ Tech Arsenal
 <div align="center">
 🔥 CORE WEAPONS
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs&theme=dark" />
