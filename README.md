@@ -10,22 +10,18 @@
 
 I'm a passionate developer who loves crafting digital experiences and exploring new technologies. When I'm not coding, you'll probably find me catching up on sleep or diving into the latest tech trends.
 
-## 🛠️ Tech Arsenal
-
+<div align="center">⚡ ARSENAL OF DESTRUCTION ⚡</div>
 <div align="center">
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+🔥 CORE WEAPONS
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs&theme=dark" />
+🛠️ DEPLOYMENT & DATABASE
+<img src="https://skillicons.dev/icons?i=mongodb,vercel,git,github,vscode,linux&theme=dark" />
+🎨 DESIGN & STYLING
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,photoshop&theme=dark" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=TECH+STACK&lineCount=3&theme=github_dark&bg=0d1117&badge=github_dark&border=30363d&titleColor=00d9ff&line1=javascript,js,61dafb;typescript,ts,3178c6;python,python,3776ab;react,react,61dafb;&line2=nodejs,node,339933;mongodb,mongo,47a248;git,git,f05032;github,github,181717;&line3=html5,html,e34f26;css3,css,1572b6;tailwindcss,tailwind,06b6d4;vercel,vercel,000000;" alt="Tech Stack" />
+</div>
 ## 📊 GitHub Analytics
 
 <div align="center">
