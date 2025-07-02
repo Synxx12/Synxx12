@@ -8,20 +8,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🚀 About Me
-
-> **"Mending Turu"** 😴 - Because sometimes the best debugging happens in dreams!
-
-I'm a passionate developer who loves crafting digital experiences and exploring new technologies. When I'm not coding, you'll probably find me catching up on sleep or diving into the latest tech trends.
-
-- 🔭 Currently working on **exciting full-stack projects**
-- 🌱 Learning **advanced React patterns** and **cloud architecture**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Python, or anything tech!**
-- ⚡ Fun fact: **I debug better after a good nap** 😴
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
 ### 🚀 Languages & Frameworks
